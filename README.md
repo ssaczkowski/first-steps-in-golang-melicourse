@@ -1,6 +1,6 @@
 # First steps in Golang - Workshop - Mercado Libre
 
-<a href="https://www.google.com.ar/search?q=golang+logo&tbm=isch&tbs=rimg:CdLq8w8dlun5IjjfEbD3DvnrqPzUU4aeVcFBiF6lcebDFb2-opOqw7Oc0_1979akt0VabetgxPw5cZbu9Ol2xmpKGeyoSCd8RsPcO-euoEQV1T9Ft_1e6DKhIJ_1NRThp5VwUERdAAnelh0Mb8qEgmIXqVx5sMVvRE4Cn-9wCR5nyoSCb6ik6rDs5zTEfzPfY6cGxW5KhIJ_13v1qS3RVpsRZjcYoAuw4rEqEgl62DE_1DlxluxH22tkkP_1VCIyoSCb06XbGakoZ7Efruz_1bMS-2d&tbo=u&sa=X&ved=0ahUKEwjZlZv-lpzXAhULHpAKHXhIAv0Q9C8IHw&biw=1440&bih=759&dpr=1#imgdii=pz8rUy2yLCOM_M:&imgrc=iF6lcebDFb3fUM:"><img src="https://secure.meetupstatic.com/photos/event/e/4/7/e/global_455218494.jpeg"/></a>
+<a href="https://www.google.com.ar/search?q=golang+logo&tbm=isch&tbs=rimg:CYhepXHmwxW9IjgvCp_1wauhKzisQbf7J7snWsJLQO90WJHQR5hidettS16c_1K1MtsiwjdbR1EFtVGHhQ_1AqyZCAPfyoSCS8Kn_1Bq6ErOEee9TkbFH7TXKhIJKxBt_1snuydYRH3Dh72_1NqWgqEgmwktA73RYkdBEFdU_1Rbf3ugyoSCRHmGJ1621LXEXQAJ3pYdDG_1KhIJpz8rUy2yLCMR2ZHtCchONHIqEgl1tHUQW1UYeBEG0YAvkZ7aQioSCVD8CrJkIA9_1EfVpun20GLEb&tbo=u&sa=X&ved=0ahUKEwj3_5K_l5zXAhVLk5AKHYJUC_wQ9C8IHw&biw=1440&bih=759&dpr=1#imgrc=_WPpSyIrf4lIiM:"><img src="https://s3.amazonaws.com/kukuruku-co/uploads/images/00/00/04/2015/10/19/1a21718d64.png"/></a>
 
 
 - Ejercicio 1: 
