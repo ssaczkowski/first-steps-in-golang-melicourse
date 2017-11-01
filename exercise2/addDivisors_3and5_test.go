@@ -1,4 +1,4 @@
-package exercise1
+package main
 
 // Test, Benchmark and Example
 import "testing"
