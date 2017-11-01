@@ -26,20 +26,8 @@ func main() {
 		}
 	}
 
-	//loadData(abb)
 	show(abb)
 
-}
-func loadData(t *tree) {
-	integerPerParameter := os.Args
-	fmt.Print(integerPerParameter)
-
-	for i := 0; i < len(os.Args); i++ {
-		input, err := strconv.Atoi(os.Args[i])
-		if err == nil {
-			add(t, input)
-		}
-	}
 }
 
 func add(t *tree, value int) *tree {
