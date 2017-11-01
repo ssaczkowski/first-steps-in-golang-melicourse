@@ -1,5 +1,7 @@
 # First steps in Golang - Workshop - Mercado Libre
 
+<a href="https://www.google.com.ar/search?q=golang+logo&tbm=isch&tbs=rimg:CaaEQ6rWa9DLIjgm2MQaKHH22cVEkrPqleWiH7tqurKOux3ni9OuXTu79jMGvb_1a3epFgSJdLRUKxXJ6kfbsZhRCjioSCSbYxBoocfbZESOJNVMLHVEkKhIJxUSSs-qV5aIRDTcyggfXt1kqEgkfu2q6so67HRFy5jaRiGgXoioSCeeL065dO7v2ERWea93q379uKhIJMwa9v9rd6kURNcrwlnK3yG8qEgmBIl0tFQrFchFYcxrtW2UGMyoSCXqR9uxmFEKOEVpL-U0hh9C6&tbo=u&sa=X&ved=0ahUKEwja8YyolpzXAhWQPpAKHXDXA_wQ9C8IHw&biw=1440&bih=759&dpr=1#imgdii=OP4KkbGtR1TFlM:&imgrc=vwpIpRvaCDDlRM:"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Golang_go.svg"/></a>
+
 <a href="https://www.google.com.ar/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff04a7348c3f516c528405b48eccc96d3ad1abdeb%2F68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722d736964655f636f6c6f722e706e67&imgrefurl=https%3A%2F%2Fgithub.com%2Fgolang-samples%2Fgopher-vector&docid=VsdewyBT_3vWLM&tbnid=Mf6d7krXOijd7M%3A&vet=10ahUKEwiYxfWZk5zXAhXRl5AKHdBdBPsQMwhDKBUwFQ..i&w=416&h=554&bih=759&biw=1440&q=golang%20logo&ved=0ahUKEwiYxfWZk5zXAhXRl5AKHdBdBPsQMwhDKBUwFQ&iact=mrc&uact=8"><img src="https://camo.githubusercontent.com/f04a7348c3f516c528405b48eccc96d3ad1abdeb/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722d736964655f636f6c6f722e706e67"/></a>
 
 
